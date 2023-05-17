@@ -1,0 +1,30 @@
+*{
+background-color: beige;
+text-decoration:aqua ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin: 20px;
+padding-bottom: 5px;
+}
+.mision{
+    color:black;background:rgb(211, 197, 180);
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+.parrafo{
+    font-size: xx-large;
+    text-align: center;
+}
+.somos{
+font-size:xx-large ;
+text-align: center;
+}
+
+.imagenes{
+
+    height: 700px;
+    
+}
+.banderita {
+    align:center;
+}
